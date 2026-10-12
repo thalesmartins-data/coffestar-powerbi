@@ -104,4 +104,4 @@ As imagens permitem conhecer o projeto diretamente no GitHub. Para interagir com
 
 ## Autor
 
-[Thales Martins](https://github.com/thalesmartins788-ai)
+[Thales Martins](https://github.com/thalesmartins-data)
